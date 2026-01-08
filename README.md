@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 </p>
 
 <!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chopper-Tony&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chopper-Tony&layout=compact)
 
 
 <!-- GitHub Stats Card -->
-[![Chopper-Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chopper-Tony&show_icons=true&theme=tokyonight)](https://github.com/Chopper-Tony/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chopper-Tony&show_icons=true)
 
