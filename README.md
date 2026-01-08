@@ -1,39 +1,75 @@
 
-<!--
-**Chopper-Tony/Chopper-Tony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <!-- header -->
 <p align='center'>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+Chopper-Tony's+Github!👋&fontSize=40"/>
 </p>
- 
-<!-- badge -->
 
-
-<p>
-  <!-- gmail -->
-  <img src="https://img.shields.io/badge/hi.hello.bonjour.ciao@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=chopper-tony&style=flat-square" />
 </p>
 
 
-<!-- 기술 스택 -->
-## 💻 Tech Stacks
+## 📊 My GitHub Dashboard
+
+<!-- Top Langs temporarily disabled due to 503 -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chopper-Tony&layout=compact&theme=tokyonight" height="170" />
+</p>
+-->
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chopper-Tony&theme=tokyo-night)
+
+
+# 👋 김현정 (Chopper-Tony) 
+
+> **AI 스타트업 예비 창업자**  
+> AI 서비스 기획·구현 중심의 학습과 기록
+
+---
+
+## 🧑‍💻 About Me
+- **전공**: 천문우주학
+- **MBTI**: ENTP · INTP
+- **최종 목표**: AI 스타트업 창업
+- **이메일**: <!-- badge --> <!-- gmail --> <img src="https://img.shields.io/badge/hi.hello.bonjour.ciao@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+---
+
+## 🎯 Course Objectives
+- **AI 스타트업 창업**
+- **투자 유치용 MVP 개발**
+- **AI 사업 아이디어의 상품화**
+
+---
+
+## 🎨 Interests
+- AI 스타트업 창업🤹👑
+- 잊혀지지 않을 정도로 재밌는 이야기🧠🫁
+- 아무도 안 읽을 것 같은 책 📚
+- 만년필🖋️ · 잉크💧 · 종이📜 · 문구🖍️
+- 레고🙍
+- 사진 촬영📸  
+  - 자연 풍경 🏞️🏜️
+  - 인공 건축물 🌇🏙️🌉🗼🗽
+  - 사람 ❌🙅🏻
+- 수집📟과 기록📝
+- <img src="https://i.ibb.co/FLYxLrBs/jellyjelly.jpg" alt="jellyjelly" width="100" height="200" />
+
+---
+
+## 🧠 Education & Research
+- 연세대학교 천문우주학과 학사 卒
+- 동대학원 천문우주학과 석사(ACL) 卒
+
+---
+
+## 📰 Experience
+- 언론사 기자 (2017.11~2025.11)
+  - 정책사회부, IT부(AI 산업·기업 취재)
+    
+---
+
+## 🛠 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -50,10 +86,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </p>
 
-<!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chopper-Tony&layout=compact)
-
-
-<!-- GitHub Stats Card -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chopper-Tony&show_icons=true)
 
