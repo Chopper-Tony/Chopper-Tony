@@ -3,6 +3,8 @@
 <!--
 **Chopper-Tony/Chopper-Tony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://img.shields.io/badge/ysa8497@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
